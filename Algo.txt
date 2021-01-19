@@ -1,0 +1,7 @@
+1. Decide which business to order from 
+2. Decide which type of pizza to order 
+
+3. Decide a topping.
+
+4. Decide how many pizzas to order.call friends for pizza party.
+
